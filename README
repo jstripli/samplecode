@@ -1,1 +1,5 @@
-This is a first test of my code
+# Sample Code
+
+This is a repository that I created to play with code.
+Right now I have just a printprimes example, which is a solution to a simple interview question I often ask.
+The question is solved in C, perl and python.
